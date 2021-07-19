@@ -1,2 +1,1 @@
-# material-ui-base-one
-Created with CodeSandbox
+This will explain how to customize react material text field
